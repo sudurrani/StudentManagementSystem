@@ -3,3 +3,12 @@
 ################################################################################
 
 /SMS.API/bin/Debug/net5.0
+/SMS.API/obj
+/SMS.Application/bin/Debug/net5.0
+/SMS.Application/obj
+/SMS.Application.Shared/bin/Debug/net5.0
+/SMS.Application.Shared/obj
+/SMS.Core/bin/Debug/net5.0
+/SMS.Core/obj
+/SMS.Core.Shared/bin/Debug/net5.0
+/SMS.Core.Shared/obj
